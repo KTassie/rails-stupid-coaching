@@ -54,3 +54,8 @@
  /* input[type=submit] {
     color: red;
  } */
+
+ /* input[type=button] {
+    color: black;
+    text-decoration: none;
+ } */
