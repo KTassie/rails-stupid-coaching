@@ -13,3 +13,40 @@
  *= require_tree .
  *= require_self
  */
+
+ .answer-box {
+    align-items: center;
+    justify-content:center;
+    margin: auto;
+    width: 500px;
+    padding: 10px;
+ }
+
+ h1 {
+    color: magenta;
+    font-weight: bolder;
+    text-align: center;
+ }
+
+ .container {
+    align-items: center;
+    justify-content:center;
+    /* padding: 10px; */
+    /* margin: auto; */
+    width: 500px;
+ }
+
+ .card {
+    padding: 10px;
+    background-color: rgba(255, 255, 0, 0.247);
+    border: 5px;
+    border-radius: 5px;
+ }
+
+ .ask-card {
+    padding: 10px;
+    border: 5px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    background-color: rgba(255, 192, 203, 0.26);
+ }
